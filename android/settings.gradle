@@ -1,0 +1,3 @@
+rootProject.name = 'road_traffic_law'
+
+include ':app'
